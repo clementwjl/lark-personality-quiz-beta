@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/lark-personality-quiz-app-react/static/css/main.a62d02cb.css",
+    "main.js": "/lark-personality-quiz-app-react/static/js/main.704fd12f.js",
+    "static/js/453.2bfa26e5.chunk.js": "/lark-personality-quiz-app-react/static/js/453.2bfa26e5.chunk.js",
+    "static/media/Gilroy-Light.ttf": "/lark-personality-quiz-app-react/static/media/Gilroy-Light.1822a291dd62fe2cca72.ttf",
+    "static/media/Gilroy-Regular.ttf": "/lark-personality-quiz-app-react/static/media/Gilroy-Regular.5b89a8df3b17dccdb73f.ttf",
+    "static/media/Gilroy-Medium.ttf": "/lark-personality-quiz-app-react/static/media/Gilroy-Medium.1b4da6582f83f45ea039.ttf",
+    "static/media/Gilroy-SemiBold.ttf": "/lark-personality-quiz-app-react/static/media/Gilroy-SemiBold.07b9100a72fe7d46d20a.ttf",
+    "static/media/Gilroy-Bold.ttf": "/lark-personality-quiz-app-react/static/media/Gilroy-Bold.ca49f7658c4eaac78b6d.ttf",
+    "index.html": "/lark-personality-quiz-app-react/index.html",
+    "main.a62d02cb.css.map": "/lark-personality-quiz-app-react/static/css/main.a62d02cb.css.map",
+    "main.704fd12f.js.map": "/lark-personality-quiz-app-react/static/js/main.704fd12f.js.map",
+    "453.2bfa26e5.chunk.js.map": "/lark-personality-quiz-app-react/static/js/453.2bfa26e5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a62d02cb.css",
+    "static/js/main.704fd12f.js"
+  ]
+}
